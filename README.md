@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Swift**
 
+- 📫 How to reach me **aowork307@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -13,4 +15,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ao307&show_icons=true&locale=en&layout=compact" alt="ao307" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ao307&" alt="ao307" /></p>
-
