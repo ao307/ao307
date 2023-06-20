@@ -5,9 +5,10 @@
 
 - 📫 How to reach me **aowork307@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: linkedin and whatsapp</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ao307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ao307" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ao307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ao307" height="30" width="40" /></a> 
+<a href="https://api.whatsapp.com/send?phone=+201155368336&text=Hi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="923000000000" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
