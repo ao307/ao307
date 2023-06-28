@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **aowork307@gmail.com**
 
-<h3 align="left">Connect with me: linkedin and whatsapp</h3>
+<h3 align="left">Connect with me: linkedin</h3>
 <p align="left">
 
 [//]: # (<a href="https://api.whatsapp.com/send?phone=+201155368336&text=Hi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="923000000000" height="30" width="40" /></a>)
