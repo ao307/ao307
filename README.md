@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Ashraf</h1>
 <h3 align="center">I have a passion for creating beautiful and functional mobile applications using the Flutter framework. With over 2 years of experience in Flutter development, I have worked on a variety of projects, ranging from small-scale applications to large-scale enterprise solutions. I am always eager to learn new technologies and stay up-to-date with the latest trends in mobile development. In my free time, I enjoy contributing to open-source projects and sharing my knowledge with the community.</h3>
 
-- 🌱 I’m currently learning **Swift**
+[//]: # - 🌱 I’m currently learning **Swift**
 
 - 📫 How to reach me **aowork307@gmail.com**
 
