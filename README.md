@@ -14,8 +14,8 @@
 
 [//]: # (<a href="https://api.whatsapp.com/send?phone=+201155368336&text=Hi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="923000000000" height="30" width="40" /></a>)
 <a href="https://linkedin.com/in/ao307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ao307" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ao30.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ao30.7" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ao30.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ao30.7/" height="30" width="40" /></a>
+<a href="https://fb.com/ao30.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ao30.7" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ao30.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ao30.7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
