@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ali Ashraf</h1>
 <p align="center">
-  Flutter Developer | 3+ Years Experience
+  Flutter Developer | Building beautiful & scalable mobile apps
 </p>
 
 <p align="center">
   <a href="mailto:aliashrafshahen@gmail.com">aliashrafshahen@gmail.com</a> •
   <a href="https://linkedin.com/in/ao307" target="_blank">LinkedIn</a> •
-  <a href="https://github.com/ao307" target="_blank">GitHub</a> •
-  <a href="tel:+201155368336">+20 115 536 8336</a> •
-  Cairo, Egypt
+  <a href="https://fb.com/ao30.7" target="_blank">Facebook</a> •
+  <a href="https://www.instagram.com/ao30.7/" target="_blank">Instagram</a>
 </p>
 
 <p align="center">
@@ -17,47 +16,22 @@
 
 ---
 
-## 👨‍💻 Profile
-Flutter Developer with 3+ years of hands-on experience building, scaling, and publishing high-quality mobile applications for iOS and Android. Delivered production-ready apps through corporate roles in the UAE and Saudi Arabia, plus 50+ freelance projects. Skilled in Clean Architecture, state management (Bloc/Provider/GetX), REST APIs, Firebase services, offline capabilities, and performance optimization.
+## 👨‍💻 About me
+Flutter Developer with 3+ years of experience building and shipping production-ready mobile apps for iOS and Android.  
+Focused on clean UI/UX, scalable architecture, API integrations, Firebase, and performance.
 
 ---
 
-## 💼 Experience
-- **Const-Tech (Saudi Arabia)** — Flutter Developer *(Flexible arrangement)*  
-  Nov 2022 – Present  
-  Building & enhancing Flutter applications, improving performance, optimizing UI/UX flows, integrating APIs, and supporting smooth releases to App Store & Google Play.
-
-- **Webtek Digital (UAE)** — Flutter Developer *(Remote, Full-time)*  
-  Sep 2022 – Nov 2024  
-  Contributed to development and enhancement of multiple production Flutter apps, collaborated with cross-functional teams, and delivered stable high-performance solutions.
-
-- **Orange Digital Center (Egypt)** — Flutter Developer *(Training)*  
-  Jun 2022 – Sep 2022  
-  Selected after securing first place in a hackathon for a 3-month program; continued remotely alongside work.
-
-- **Mostaql (Freelance)** — Flutter Developer  
-  Nov 2023 – Present  
-  50+ Flutter projects: full app development, feature implementation, bug fixing, and performance optimization.
+## 🧰 Tech & Tools
+**Flutter / Dart • Clean Architecture • Bloc/Cubit • Provider/GetX • REST APIs • Firebase (Auth/Firestore/FCM) • WebSockets/Socket.IO • Push Notifications • Maps • Git • Figma**
 
 ---
 
-## 🧰 Skills
-**Flutter / Dart:** Flutter Development, Dart, OOP, SOLID, Clean Code, Clean Architecture, Flavors, Slivers  
-**State Management:** Bloc & Cubit, Provider, GetX  
-**Networking & Backend:** RESTful APIs, Dio & HTTP, API Integration  
-**Realtime & Notifications:** WebSockets, Socket.IO, Pusher, Real-Time Chats, Push Notifications  
-**Firebase:** Auth, Firestore, FCM  
-**Other:** Localization, Maps, Unit Testing, CI/CD, Problem Solving, Algorithms, Data Structures, UI/UX  
-**Also:** Kotlin, AI Integration
+## 🚀 Latest Apps I Launched
+Below are the most recent projects I’ve launched to production (App Store & Google Play), ordered by recency:
 
----
-
-## 🚀 Featured Projects
-> Most projects are production apps (some are dual-app systems for users/providers).  
-> If you want, I can also add screenshots + short “case study” bullets لكل مشروع.
-
-### 1) Ajirly (Users + Owners) — Property renting & reservation system
-Electronic system for renting/reserving properties (chalets/farms). Owners manage listings, prices, availability, photos; users book, track reservations, rate, and chat with owners.
+### 1) Ajirly (Users + Owners) — Property renting & reservations
+Owners manage listings, pricing, availability & photos. Users can book, track reservations, rate, and chat with owners.
 
 - **Users App**
     - App Store: https://apps.apple.com/id/app/ajirly-%D8%A7%D8%AC%D8%B1%D9%84%D9%8A/id6499079101
@@ -68,24 +42,16 @@ Electronic system for renting/reserving properties (chalets/farms). Owners manag
 
 ---
 
-### 2) Umrah Plus — Hajj & Umrah organizer
-Helps users organize trips and book services from Umrah offices, plus added features like prayer times, Quran, and Adhkar.
+### 2) Driving Education (Women-only) — Booking + tests + progress tracking
+Women-focused driving education app: practical lessons booking, interactive theory tests, and personalized learning plans.
 
-- App Store: https://apps.apple.com/us/app/umrah-plus-%D8%B9%D9%85%D8%B1%D8%A9-%D8%A8%D9%84%D8%B3/id6504259808
-- Google Play: https://play.google.com/store/apps/details?id=com.ao307.umrahplus
-
----
-
-### 3) Sheikh Hammoud Al-Sawafi — Mobile library (Audio/Video/Text)
-A library of scholarly and educational content with offline downloads, playback while locked, and notes on audio lessons.
-
-- App Store: https://apps.apple.com/us/app/%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%AD%D9%85%D9%88%D8%AF-%D8%A7%D9%84%D8%B5%D9%88%D8%A7%D9%81%D9%8A/id1601701000
-- Google Play: https://play.google.com/store/apps/details?id=me.oten.alswafi
+- App Store: https://apps.apple.com/us/app/%D9%81%D9%8A%D9%88-%D8%AF%D8%B1%D8%A7%D9%8A%D9%81/id6744862262
+- Google Play: https://play.google.com/store/apps/details?id=com.ao307.drivingeducation
 
 ---
 
-### 4) Jayek (Customers + Barbers) — On-demand barber platform
-Two-sided platform with booking, live tracking, real-time chat, schedule management, secure payments, background location tracking, and scalable architecture using Bloc.
+### 3) Jayek (Customers + Barbers) — On-demand barber platform
+Two-sided booking platform with real-time chat, schedules, payments, notifications, and background location tracking.
 
 - **Customers App**
     - App Store: https://apps.apple.com/us/app/jayek-%D8%AC%D8%A7%D9%8A%D9%83/id6751446398
@@ -96,60 +62,19 @@ Two-sided platform with booking, live tracking, real-time chat, schedule managem
 
 ---
 
-### 5) FlowerRd (Customers + Drivers) — Flower delivery (Canada/US)
-Flower delivery app with order tracking, subscriptions, and delivery workflows. Rebuilt in Flutter migrating from React Native.
+### 4) Sheikh Hammoud Al-Sawafi — Mobile library (Audio/Video/Text)
+A rich content library with offline downloads, background audio playback, and notes on lessons.
 
-- App Store: https://apps.apple.com/us/app/flowerrd/id6447593031
-- Google Play: https://play.google.com/store/apps/details?id=com.flowerrd.flowerrd
-
----
-
-### 6) Warshaty (Customers + Providers) — Car maintenance dual-app system
-Customer app: request services, track, secure payments.  
-Provider app: manage requests/pricing, real-time communication, notifications, and financial tools.
-
-- **Customer App**
-    - App Store: https://apps.apple.com/us/app/warshaty-%D9%88%D8%B1%D8%B4%D8%AA%D9%8A/id6741896521
-    - Google Play: https://play.google.com/store/apps/details?id=com.ao307.warshatyclient
-- **Provider App**
-    - App Store: https://apps.apple.com/gb/app/warshaty/id6741895654
-    - Google Play: https://play.google.com/store/apps/details?id=com.ao307.warshatyvendor
+- App Store: https://apps.apple.com/us/app/%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%AD%D9%85%D9%88%D8%AF-%D8%A7%D9%84%D8%B5%D9%88%D8%A7%D9%81%D9%8A/id1601701000
+- Google Play: https://play.google.com/store/apps/details?id=me.oten.alswafi
 
 ---
 
-### 7) Driving Education (Women-only) — Booking + tests + progress tracking
-Specialized driving education app for women: practical lessons booking, interactive theory tests, and personalized learning plans.
+### 5) Umrah Plus — Hajj & Umrah organizer
+Trip organization and booking services from Umrah offices, with additional features such as prayer times, Quran, and Adhkar.
 
-- App Store: https://apps.apple.com/us/app/%D9%81%D9%8A%D9%88-%D8%AF%D8%B1%D8%A7%D9%8A%D9%81/id6744862262
-- Google Play: https://play.google.com/store/apps/details?id=com.ao307.drivingeducation
-
----
-
-### 8) Compass Card — Superyacht Middle East™ benefits card
-Digital card offering exclusive discounts/services for yacht clients (itinerary planning, crew services, customs clearance, training, transfers, leisure, etc.).
-
-- App Store: https://apps.apple.com/us/app/compass-card-online/id6526480068
-- Google Play: https://play.google.com/store/apps/details?id=com.ao307.app.superyachtme
-
----
-
-## 🎓 Education
-**Shorouk Academy** — B.Sc. Computer Science (Sep 2018 – Jun 2022)
-
----
-
-## 📜 Certificates
-- The Complete 2022 Flutter & Dart Development Course (Arabic)
-- Deep Dive into Clean Architecture in Flutter (Arabic)
-- Flutter Clean Architecture [2022] [Flutter 3] (Arabic)
-- Flutter Payment Integration: Stripe, PayPal & More! (Arabic)
-- Kotlin for Beginners: From Zero to Hero 2023 (Arabic)
-
----
-
-## 🌍 Languages
-- Arabic: Native
-- English: Good
+- App Store: https://apps.apple.com/us/app/umrah-plus-%D8%B9%D9%85%D8%B1%D8%A9-%D8%A8%D9%84%D8%B3/id6504259808
+- Google Play: https://play.google.com/store/apps/details?id=com.ao307.umrahplus
 
 ---
 
