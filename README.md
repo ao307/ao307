@@ -25,7 +25,7 @@ I focus on turning product ideas into stable mobile experiences with clean archi
 - 🔭 Currently working on production Flutter apps with clean, scalable architecture
 - 🧩 Experienced in multi-app systems, real-time features, maps, subscriptions, payments, and push notifications
 - 🚀 Published and maintained apps on both **App Store** and **Google Play**
-- 💬 Comfortable owning features end-to-end, from product requirements and architecture to release and optimization
+- 💬 Comfortable leading full mobile projects end-to-end, including task planning, team coordination, backend follow-up, Flutter development, release, and post-launch improvements
 - 📫 Reach me at **aliashrafshahen@gmail.com**
 
 ---
@@ -81,7 +81,7 @@ I focus on turning product ideas into stable mobile experiences with clean archi
 - **Const-Tech** - Flutter Developer
 - **Webtek Digital** - Flutter Developer
 - **Orange Digital Center** - Flutter Developer Trainee
-- **Freelance Projects** - Flutter app development, feature delivery, bug fixing, and performance optimization
+- **Freelance Projects** - Full project leadership, including requirements analysis, task distribution, backend coordination, Flutter development, client communication, release, and post-launch support
 
 ---
 
