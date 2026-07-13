@@ -1,39 +1,108 @@
-<h1 align="center">Hi 👋, I'm Ali Ashraf</h1>
-<h3 align="center">I have a passion for creating beautiful and functional mobile applications using the Flutter framework. With extensive experience in Flutter development, I've worked on a variety of projects, ranging from small-scale applications to large-scale enterprise solutions. I am always eager to learn new technologies and stay up-to-date with the latest trends in mobile development. In my free time, I enjoy contributing to open-source projects and sharing my knowledge with the community.</h3>
+<h1 align="center">Hi, I'm Ali Ashraf 👋</h1>
 
-[//]: # (space)
-<p>&nbsp;</p>
+<h3 align="center">Flutter Developer building scalable, polished mobile apps for iOS and Android.</h3>
 
-[//]: # (gif)
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
-
-
-
-[//]: # (contact)
-
-[//]: # (- 🌱 I’m currently learning **Swift**)
-
-- 📫 How to reach me **aliashrafshahen@gmail.com**
-
-<h3 align="left">Connect with me: </h3>
-<p align="left">
-
-[//]: # (<a href="https://api.whatsapp.com/send?phone=+201155368336&text=Hi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="923000000000" height="30" width="40" /></a>)
-<a href="https://linkedin.com/in/ao307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ao307" height="30" width="40" /></a>
-<a href="https://fb.com/ao30.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ao30.7" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ao30.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ao30.7" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:aliashrafshahen@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aliashrafshahen%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/ao307" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ao307-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ao307" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ao307-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://mostaql.com/u/ao307" target="_blank">
+    <img src="https://img.shields.io/badge/Mostaql-50%2B_projects-2386C8?style=for-the-badge" alt="Mostaql" />
+  </a>
 </p>
 
+---
 
-[//]: # (languages and tools)
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### About Me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ao307&show_icons=true&locale=en&layout=compact" alt="ao307" /></p>
+I'm a Flutter Developer with **4+ years of experience** building, scaling, and publishing production-ready mobile applications. I have worked with teams across **Egypt, the UAE, and Saudi Arabia**, and delivered **50+ freelance Flutter projects** through Mostaql.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ao307&" alt="ao307" /></p>
+I focus on clean architecture, reliable state management, smooth UI/UX, API integrations, Firebase services, offline-first features, app performance, and release-ready mobile products.
 
+- 🔭 Currently working on production Flutter apps with clean, scalable architecture
+- 🧩 Experienced in multi-app systems, real-time features, maps, subscriptions, payments, and push notifications
+- 🚀 Published and maintained apps on both **App Store** and **Google Play**
+- 💬 Comfortable owning features end-to-end, from idea and architecture to release and optimization
+- 📫 Reach me at **aliashrafshahen@gmail.com**
 
+---
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,swift,androidstudio,figma,git,github" alt="Tech stack" />
+</p>
+
+### Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-1E88E5?style=flat-square)
+![Cubit](https://img.shields.io/badge/Cubit-1565C0?style=flat-square)
+![Provider](https://img.shields.io/badge/Provider-5C6BC0?style=flat-square)
+![GetX](https://img.shields.io/badge/GetX-7B1FA2?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2E7D32?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID-455A64?style=flat-square)
+
+### Backend, Integrations & Tooling
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square)
+![Dio](https://img.shields.io/badge/Dio-1976D2?style=flat-square)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=flat-square&logo=pusher&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-263238?style=flat-square)
+
+---
+
+### Featured Work
+
+| Project | What I Built | Links |
+| --- | --- | --- |
+| **Ajirly** | Property rental and reservation platform with user, provider, and supervisor flows. | User: [App Store](https://apps.apple.com/us/app/id6499079101) - [Google Play](https://play.google.com/store/apps/details?id=com.ao307.ajirly.user.iq)<br>Provider: [App Store](https://apps.apple.com/us/app/id6499032520) - [Google Play](https://play.google.com/store/apps/details?id=com.ao307.ajirly.provider) |
+| **Umrah Plus** | Hajj and Umrah services app with bookings, prayer times, Quran, Adhkar, and trip organization. | [App Store](https://apps.apple.com/us/app/id6504259808) - [Google Play](https://play.google.com/store/apps/details?id=com.ao307.umrahplus) |
+| **Tamen Qalbak** | Islamic lifestyle app with Quran, Azkar, Doas, Qibla, subscriptions, ads, SQLite, Kotlin modules, and Arabic/English localization. | [Google Play](https://play.google.com/store/apps/details?id=com.ao307.qalbk.tamn) |
+| **Driving Education** | Women-focused driving education app with lesson booking, theoretical tests, progress tracking, and instructor flows. | [App Store](https://apps.apple.com/us/app/id6744862262) - [Google Play](https://play.google.com/store/apps/details?id=com.ao307.drivingeducation) |
+| **Sheikh Hammoud Al-Sawafi** | Mobile knowledge library with visual, audio, and written content, offline downloads, background playback, and notes. | [App Store](https://apps.apple.com/us/app/id1601701000) - [Google Play](https://play.google.com/store/apps/details?id=me.oten.alswafi) |
+| **Jayek** | Two-sided barber booking platform with live maps, real-time chat, background location, Firebase notifications, and BLoC architecture. | User: [App Store](https://apps.apple.com/us/app/id6751446398) - [Google Play](https://play.google.com/store/apps/details?id=com.client.jayek)<br>Provider: [App Store](https://apps.apple.com/us/app/id6751446201) - [Google Play](https://play.google.com/store/apps/details?id=com.ao307.provider.jayek) |
+| **Warshaty** | Dual-app car maintenance system connecting customers and service providers with requests, pricing, payments, and notifications. | User: [App Store](https://apps.apple.com/us/app/id6741896521) - [Google Play](https://play.google.com/store/apps/details?id=com.ao307.warshatyclient)<br>Provider: [App Store](https://apps.apple.com/us/app/warshaty/id6741895654) - [Google Play](https://play.google.com/store/apps/details?id=com.ao307.warshatyvendor) |
+| **Compass Card** | Premium digital card app for Superyacht Middle East clients with exclusive services and offers. | [App Store](https://apps.apple.com/us/app/id6526480068) - [Google Play](https://play.google.com/store/apps/details?id=com.ao307.app.superyachtme) |
+| **FlowerRd** | Flower delivery app rebuilt from React Native to Flutter for customers and drivers across Canada and the US. | [App Store](https://apps.apple.com/us/app/flowerrd/id6447593031) - [Google Play](https://play.google.com/store/apps/details?id=com.flowerrd.flowerrd) |
+
+---
+
+### Experience Snapshot
+
+- **Const-Tech** - Flutter Developer, Dammam, Saudi Arabia
+- **Webtek Digital** - Flutter Developer, Dubai, UAE
+- **Orange Digital Center** - Flutter Developer Trainee, Cairo, Egypt
+- **Mostaql** - Freelance Flutter Developer, 50+ completed projects
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ao307&show_icons=true&theme=tokyonight&hide_border=true" alt="Ali Ashraf GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=ao307&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ao307&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/ao307" target="_blank">
+    <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+</p>
