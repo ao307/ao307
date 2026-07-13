@@ -70,18 +70,6 @@ Property rental and reservation platform with separate apps for users and provid
 
 **Downloads:** User app ([Android](https://play.google.com/store/apps/details?id=com.ao307.ajirly.user.iq) | [iOS](https://apps.apple.com/us/app/id6499079101)) - Provider app ([Android](https://play.google.com/store/apps/details?id=com.ao307.ajirly.provider) | [iOS](https://apps.apple.com/us/app/id6499032520))
 
-### Driving Education
-
-Women-focused driving education app that helps learners book practical driving lessons, take interactive theoretical tests, track personal progress, and follow learning plans based on their schedule and skill level.
-
-#### Contributions
-
-- Developed booking, learning, testing, and progress-tracking flows in Flutter.
-- Built polished, accessible UI flows for beginner learners and instructor-driven learning paths.
-- Published and maintained production builds for Android and iOS.
-
-**Downloads:** [Android](https://play.google.com/store/apps/details?id=com.ao307.drivingeducation) | [iOS](https://apps.apple.com/us/app/id6744862262)
-
 ### Jayek
 
 Two-sided on-demand barber platform with dedicated apps for customers and barbers. Customers can book barbers to their location, track live movement on maps, chat in real time, manage bookings, and pay securely, while barbers can receive requests, navigate to clients, manage services, and track earnings.
@@ -93,6 +81,18 @@ Two-sided on-demand barber platform with dedicated apps for customers and barber
 - Implemented booking, service management, navigation, and provider workflow features.
 
 **Downloads:** User app ([Android](https://play.google.com/store/apps/details?id=com.client.jayek) | [iOS](https://apps.apple.com/us/app/id6751446398)) - Provider app ([Android](https://play.google.com/store/apps/details?id=com.ao307.provider.jayek) | [iOS](https://apps.apple.com/us/app/id6751446201))
+
+### Driving Education
+
+Women-focused driving education app that helps learners book practical driving lessons, take interactive theoretical tests, track personal progress, and follow learning plans based on their schedule and skill level.
+
+#### Contributions
+
+- Developed booking, learning, testing, and progress-tracking flows in Flutter.
+- Built polished, accessible UI flows for beginner learners and instructor-driven learning paths.
+- Published and maintained production builds for Android and iOS.
+
+**Downloads:** [Android](https://play.google.com/store/apps/details?id=com.ao307.drivingeducation) | [iOS](https://apps.apple.com/us/app/id6744862262)
 
 ### Tamen Qalbak
 
