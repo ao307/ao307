@@ -3,16 +3,10 @@
 <h3 align="center">Flutter Developer building scalable, polished mobile apps for iOS and Android.</h3>
 
 <p align="center">
-  <a href="mailto:aliashrafshahen@gmail.com" title="Email">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="34" height="34" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ao307" target="_blank" title="LinkedIn">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="34" height="34" alt="LinkedIn" />
-  </a>
-</p>
-
-<p align="center">
+  <a href="mailto:aliashrafshahen@gmail.com">Email</a>
+  ·
+  <a href="https://linkedin.com/in/ao307" target="_blank">LinkedIn</a>
+  ·
   <a href="mailto:aliashrafshahen@gmail.com">aliashrafshahen@gmail.com</a>
 </p>
 
