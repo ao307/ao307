@@ -85,13 +85,7 @@ I focus on turning product ideas into stable mobile experiences with clean archi
 
 ---
 
-### GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/ao307?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Open_Source-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Projects" />
-  </a>
-</p>
+### GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ao307&theme=tokyonight&hide_border=true" alt="GitHub streak" />
