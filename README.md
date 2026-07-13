@@ -12,23 +12,20 @@
   <a href="https://github.com/ao307" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-ao307-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://mostaql.com/u/ao307" target="_blank">
-    <img src="https://img.shields.io/badge/Mostaql-50%2B_projects-2386C8?style=for-the-badge" alt="Mostaql" />
-  </a>
 </p>
 
 ---
 
 ### About Me
 
-I'm a Flutter Developer with **4+ years of experience** building, scaling, and publishing production-ready mobile applications. I have worked with teams across **Egypt, the UAE, and Saudi Arabia**, and delivered **50+ freelance Flutter projects** through Mostaql.
+I'm a Flutter Developer with **4+ years of experience** building, scaling, and publishing production-ready mobile applications for iOS and Android.
 
-I focus on clean architecture, reliable state management, smooth UI/UX, API integrations, Firebase services, offline-first features, app performance, and release-ready mobile products.
+I focus on turning product ideas into stable mobile experiences with clean architecture, reliable state management, smooth UI/UX, API integrations, Firebase services, offline-first features, app performance, and release-ready delivery.
 
 - 🔭 Currently working on production Flutter apps with clean, scalable architecture
 - 🧩 Experienced in multi-app systems, real-time features, maps, subscriptions, payments, and push notifications
 - 🚀 Published and maintained apps on both **App Store** and **Google Play**
-- 💬 Comfortable owning features end-to-end, from idea and architecture to release and optimization
+- 💬 Comfortable owning features end-to-end, from product requirements and architecture to release and optimization
 - 📫 Reach me at **aliashrafshahen@gmail.com**
 
 ---
@@ -81,10 +78,10 @@ I focus on clean architecture, reliable state management, smooth UI/UX, API inte
 
 ### Experience Snapshot
 
-- **Const-Tech** - Flutter Developer, Dammam, Saudi Arabia
-- **Webtek Digital** - Flutter Developer, Dubai, UAE
-- **Orange Digital Center** - Flutter Developer Trainee, Cairo, Egypt
-- **Mostaql** - Freelance Flutter Developer, 50+ completed projects
+- **Const-Tech** - Flutter Developer
+- **Webtek Digital** - Flutter Developer
+- **Orange Digital Center** - Flutter Developer Trainee
+- **Freelance Projects** - Flutter app development, feature delivery, bug fixing, and performance optimization
 
 ---
 
