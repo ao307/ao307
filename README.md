@@ -8,15 +8,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/ao307" target="_blank" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="34" height="34" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://fb.com/ao30.7" target="_blank" title="Facebook">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="34" height="34" alt="Facebook" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/ao30.7/" target="_blank" title="Instagram">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="34" height="34" alt="Instagram" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="34" height="34" alt="LinkedIn" />
   </a>
 </p>
 
@@ -135,10 +127,4 @@ Comprehensive Islamic lifestyle app built with Flutter and native Kotlin, coveri
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ao307&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
-<p align="center">
-  Open to building reliable, scalable Flutter products.
 </p>
