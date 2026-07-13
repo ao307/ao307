@@ -3,12 +3,25 @@
 <h3 align="center">Flutter Developer building scalable, polished mobile apps for iOS and Android.</h3>
 
 <p align="center">
-  <a href="mailto:aliashrafshahen@gmail.com">
-    <img src="https://img.shields.io/badge/Email-aliashrafshahen%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:aliashrafshahen@gmail.com" title="Email">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="34" height="34" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/ao307" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ao307-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ao307" target="_blank" title="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="34" height="34" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://fb.com/ao30.7" target="_blank" title="Facebook">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="34" height="34" alt="Facebook" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/ao30.7/" target="_blank" title="Instagram">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="34" height="34" alt="Instagram" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:aliashrafshahen@gmail.com">aliashrafshahen@gmail.com</a>
 </p>
 
 ---
@@ -127,7 +140,5 @@ Comprehensive Islamic lifestyle app built with Flutter and native Kotlin, coveri
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/ao307" target="_blank">
-    <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
+  Open to building reliable, scalable Flutter products.
 </p>
