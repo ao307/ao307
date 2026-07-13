@@ -57,19 +57,92 @@ I focus on turning product ideas into stable mobile experiences with clean archi
 
 ---
 
-### Featured Work
+### Featured Apps
 
-| Project | What I Built | Links |
-| --- | --- | --- |
-| **Ajirly** | Property rental and reservation platform with user, provider, and supervisor flows. | User: [App Store](https://apps.apple.com/us/app/id6499079101) - [Google Play](https://play.google.com/store/apps/details?id=com.ao307.ajirly.user.iq)<br>Provider: [App Store](https://apps.apple.com/us/app/id6499032520) - [Google Play](https://play.google.com/store/apps/details?id=com.ao307.ajirly.provider) |
-| **Umrah Plus** | Hajj and Umrah services app with bookings, prayer times, Quran, Adhkar, and trip organization. | [App Store](https://apps.apple.com/us/app/id6504259808) - [Google Play](https://play.google.com/store/apps/details?id=com.ao307.umrahplus) |
-| **Tamen Qalbak** | Islamic lifestyle app with Quran, Azkar, Doas, Qibla, subscriptions, ads, SQLite, Kotlin modules, and Arabic/English localization. | [Google Play](https://play.google.com/store/apps/details?id=com.ao307.qalbk.tamn) |
-| **Driving Education** | Women-focused driving education app with lesson booking, theoretical tests, progress tracking, and instructor flows. | [App Store](https://apps.apple.com/us/app/id6744862262) - [Google Play](https://play.google.com/store/apps/details?id=com.ao307.drivingeducation) |
-| **Sheikh Hammoud Al-Sawafi** | Mobile knowledge library with visual, audio, and written content, offline downloads, background playback, and notes. | [App Store](https://apps.apple.com/us/app/id1601701000) - [Google Play](https://play.google.com/store/apps/details?id=me.oten.alswafi) |
-| **Jayek** | Two-sided barber booking platform with live maps, real-time chat, background location, Firebase notifications, and BLoC architecture. | User: [App Store](https://apps.apple.com/us/app/id6751446398) - [Google Play](https://play.google.com/store/apps/details?id=com.client.jayek)<br>Provider: [App Store](https://apps.apple.com/us/app/id6751446201) - [Google Play](https://play.google.com/store/apps/details?id=com.ao307.provider.jayek) |
-| **Warshaty** | Dual-app car maintenance system connecting customers and service providers with requests, pricing, payments, and notifications. | User: [App Store](https://apps.apple.com/us/app/id6741896521) - [Google Play](https://play.google.com/store/apps/details?id=com.ao307.warshatyclient)<br>Provider: [App Store](https://apps.apple.com/us/app/warshaty/id6741895654) - [Google Play](https://play.google.com/store/apps/details?id=com.ao307.warshatyvendor) |
-| **Compass Card** | Premium digital card app for Superyacht Middle East clients with exclusive services and offers. | [App Store](https://apps.apple.com/us/app/id6526480068) - [Google Play](https://play.google.com/store/apps/details?id=com.ao307.app.superyachtme) |
-| **FlowerRd** | Flower delivery app rebuilt from React Native to Flutter for customers and drivers across Canada and the US. | [App Store](https://apps.apple.com/us/app/flowerrd/id6447593031) - [Google Play](https://play.google.com/store/apps/details?id=com.flowerrd.flowerrd) |
+### Ajirly
+
+Property rental and reservation platform with separate apps for users and providers. Owners can list properties, manage prices and availability, upload images, and handle reservations, while users can book, track reservations, rate properties, and communicate with owners.
+
+#### Contributions
+
+- Built and maintained Flutter apps for both user and provider experiences.
+- Implemented reservation flows, property management, ratings, media handling, and API integrations.
+- Supported production releases across Android and iOS for a multi-app marketplace system.
+
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.ao307.ajirly.user.iq" target="_blank">
+    <img src="https://img.shields.io/badge/User_Android-Google_Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="Ajirly user app on Google Play" />
+  </a>
+  <a href="https://apps.apple.com/us/app/id6499079101" target="_blank">
+    <img src="https://img.shields.io/badge/User_iOS-App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Ajirly user app on App Store" />
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.ao307.ajirly.provider" target="_blank">
+    <img src="https://img.shields.io/badge/Provider_Android-Google_Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="Ajirly provider app on Google Play" />
+  </a>
+  <a href="https://apps.apple.com/us/app/id6499032520" target="_blank">
+    <img src="https://img.shields.io/badge/Provider_iOS-App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Ajirly provider app on App Store" />
+  </a>
+</p>
+
+### Driving Education
+
+Women-focused driving education app that helps learners book practical driving lessons, take interactive theoretical tests, track personal progress, and follow learning plans based on their schedule and skill level.
+
+#### Contributions
+
+- Developed booking, learning, testing, and progress-tracking flows in Flutter.
+- Built polished, accessible UI flows for beginner learners and instructor-driven learning paths.
+- Published and maintained production builds for Android and iOS.
+
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.ao307.drivingeducation" target="_blank">
+    <img src="https://img.shields.io/badge/Android-Google_Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="Driving Education on Google Play" />
+  </a>
+  <a href="https://apps.apple.com/us/app/id6744862262" target="_blank">
+    <img src="https://img.shields.io/badge/iOS-App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Driving Education on App Store" />
+  </a>
+</p>
+
+### Jayek
+
+Two-sided on-demand barber platform with dedicated apps for customers and barbers. Customers can book barbers to their location, track live movement on maps, chat in real time, manage bookings, and pay securely, while barbers can receive requests, navigate to clients, manage services, and track earnings.
+
+#### Contributions
+
+- Built customer and barber Flutter apps with clean, scalable architecture.
+- Integrated real-time chat, live maps, background location, Firebase notifications, and secure local storage.
+- Implemented booking, service management, navigation, and provider workflow features.
+
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.client.jayek" target="_blank">
+    <img src="https://img.shields.io/badge/User_Android-Google_Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="Jayek user app on Google Play" />
+  </a>
+  <a href="https://apps.apple.com/us/app/id6751446398" target="_blank">
+    <img src="https://img.shields.io/badge/User_iOS-App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Jayek user app on App Store" />
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.ao307.provider.jayek" target="_blank">
+    <img src="https://img.shields.io/badge/Provider_Android-Google_Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="Jayek provider app on Google Play" />
+  </a>
+  <a href="https://apps.apple.com/us/app/id6751446201" target="_blank">
+    <img src="https://img.shields.io/badge/Provider_iOS-App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Jayek provider app on App Store" />
+  </a>
+</p>
+
+### Tamen Qalbak
+
+Comprehensive Islamic lifestyle app built with Flutter and native Kotlin, covering prayer times, Quran, Azkar, Doas, digital rosary, Qibla compass, subscriptions, ads, and offline-first local storage.
+
+#### Contributions
+
+- Built a clean, scalable Flutter architecture using BLoC.
+- Integrated SQLite for offline access and native Kotlin modules for Android system-level features.
+- Implemented localization, monetization, push notifications, and responsive UI flows.
+
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.ao307.qalbk.tamn" target="_blank">
+    <img src="https://img.shields.io/badge/Android-Google_Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="Tamen Qalbak on Google Play" />
+  </a>
+</p>
 
 ---
 
