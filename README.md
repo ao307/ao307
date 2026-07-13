@@ -58,7 +58,7 @@ I focus on turning product ideas into stable mobile experiences with clean archi
 
 ### Featured Apps
 
-### Ajirly
+### [Ajirly](https://play.google.com/store/apps/details?id=com.ao307.ajirly.user.iq)
 
 Property rental and reservation platform with separate apps for users and providers. Owners can list properties, manage prices and availability, upload images, and handle reservations, while users can book, track reservations, rate properties, and communicate with owners.
 
@@ -70,7 +70,7 @@ Property rental and reservation platform with separate apps for users and provid
 
 **Downloads:** User app ([Android](https://play.google.com/store/apps/details?id=com.ao307.ajirly.user.iq) | [iOS](https://apps.apple.com/us/app/id6499079101)) - Provider app ([Android](https://play.google.com/store/apps/details?id=com.ao307.ajirly.provider) | [iOS](https://apps.apple.com/us/app/id6499032520))
 
-### Jayek
+### [Jayek](https://play.google.com/store/apps/details?id=com.client.jayek)
 
 Two-sided on-demand barber platform with dedicated apps for customers and barbers. Customers can book barbers to their location, track live movement on maps, chat in real time, manage bookings, and pay securely, while barbers can receive requests, navigate to clients, manage services, and track earnings.
 
@@ -82,7 +82,7 @@ Two-sided on-demand barber platform with dedicated apps for customers and barber
 
 **Downloads:** User app ([Android](https://play.google.com/store/apps/details?id=com.client.jayek) | [iOS](https://apps.apple.com/us/app/id6751446398)) - Provider app ([Android](https://play.google.com/store/apps/details?id=com.ao307.provider.jayek) | [iOS](https://apps.apple.com/us/app/id6751446201))
 
-### Driving Education
+### [Driving Education](https://play.google.com/store/apps/details?id=com.ao307.drivingeducation)
 
 Women-focused driving education app that helps learners book practical driving lessons, take interactive theoretical tests, track personal progress, and follow learning plans based on their schedule and skill level.
 
@@ -94,7 +94,7 @@ Women-focused driving education app that helps learners book practical driving l
 
 **Downloads:** [Android](https://play.google.com/store/apps/details?id=com.ao307.drivingeducation) | [iOS](https://apps.apple.com/us/app/id6744862262)
 
-### Tamen Qalbak
+### [Tamen Qalbak](https://play.google.com/store/apps/details?id=com.ao307.qalbk.tamn)
 
 Comprehensive Islamic lifestyle app built with Flutter and native Kotlin, covering prayer times, Quran, Azkar, Doas, digital rosary, Qibla compass, subscriptions, ads, and offline-first local storage.
 
