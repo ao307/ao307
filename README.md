@@ -69,20 +69,7 @@ Property rental and reservation platform with separate apps for users and provid
 - Implemented reservation flows, property management, ratings, media handling, and API integrations.
 - Supported production releases across Android and iOS for a multi-app marketplace system.
 
-<p>
-  <a href="https://play.google.com/store/apps/details?id=com.ao307.ajirly.user.iq" target="_blank">
-    <img src="https://img.shields.io/badge/User_Android-Google_Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="Ajirly user app on Google Play" />
-  </a>
-  <a href="https://apps.apple.com/us/app/id6499079101" target="_blank">
-    <img src="https://img.shields.io/badge/User_iOS-App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Ajirly user app on App Store" />
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.ao307.ajirly.provider" target="_blank">
-    <img src="https://img.shields.io/badge/Provider_Android-Google_Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="Ajirly provider app on Google Play" />
-  </a>
-  <a href="https://apps.apple.com/us/app/id6499032520" target="_blank">
-    <img src="https://img.shields.io/badge/Provider_iOS-App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Ajirly provider app on App Store" />
-  </a>
-</p>
+**Downloads:** User app ([Android](https://play.google.com/store/apps/details?id=com.ao307.ajirly.user.iq) | [iOS](https://apps.apple.com/us/app/id6499079101)) - Provider app ([Android](https://play.google.com/store/apps/details?id=com.ao307.ajirly.provider) | [iOS](https://apps.apple.com/us/app/id6499032520))
 
 ### Driving Education
 
@@ -94,14 +81,7 @@ Women-focused driving education app that helps learners book practical driving l
 - Built polished, accessible UI flows for beginner learners and instructor-driven learning paths.
 - Published and maintained production builds for Android and iOS.
 
-<p>
-  <a href="https://play.google.com/store/apps/details?id=com.ao307.drivingeducation" target="_blank">
-    <img src="https://img.shields.io/badge/Android-Google_Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="Driving Education on Google Play" />
-  </a>
-  <a href="https://apps.apple.com/us/app/id6744862262" target="_blank">
-    <img src="https://img.shields.io/badge/iOS-App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Driving Education on App Store" />
-  </a>
-</p>
+**Downloads:** [Android](https://play.google.com/store/apps/details?id=com.ao307.drivingeducation) | [iOS](https://apps.apple.com/us/app/id6744862262)
 
 ### Jayek
 
@@ -113,20 +93,7 @@ Two-sided on-demand barber platform with dedicated apps for customers and barber
 - Integrated real-time chat, live maps, background location, Firebase notifications, and secure local storage.
 - Implemented booking, service management, navigation, and provider workflow features.
 
-<p>
-  <a href="https://play.google.com/store/apps/details?id=com.client.jayek" target="_blank">
-    <img src="https://img.shields.io/badge/User_Android-Google_Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="Jayek user app on Google Play" />
-  </a>
-  <a href="https://apps.apple.com/us/app/id6751446398" target="_blank">
-    <img src="https://img.shields.io/badge/User_iOS-App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Jayek user app on App Store" />
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.ao307.provider.jayek" target="_blank">
-    <img src="https://img.shields.io/badge/Provider_Android-Google_Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="Jayek provider app on Google Play" />
-  </a>
-  <a href="https://apps.apple.com/us/app/id6751446201" target="_blank">
-    <img src="https://img.shields.io/badge/Provider_iOS-App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Jayek provider app on App Store" />
-  </a>
-</p>
+**Downloads:** User app ([Android](https://play.google.com/store/apps/details?id=com.client.jayek) | [iOS](https://apps.apple.com/us/app/id6751446398)) - Provider app ([Android](https://play.google.com/store/apps/details?id=com.ao307.provider.jayek) | [iOS](https://apps.apple.com/us/app/id6751446201))
 
 ### Tamen Qalbak
 
@@ -138,11 +105,7 @@ Comprehensive Islamic lifestyle app built with Flutter and native Kotlin, coveri
 - Integrated SQLite for offline access and native Kotlin modules for Android system-level features.
 - Implemented localization, monetization, push notifications, and responsive UI flows.
 
-<p>
-  <a href="https://play.google.com/store/apps/details?id=com.ao307.qalbk.tamn" target="_blank">
-    <img src="https://img.shields.io/badge/Android-Google_Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="Tamen Qalbak on Google Play" />
-  </a>
-</p>
+**Downloads:** [Android](https://play.google.com/store/apps/details?id=com.ao307.qalbk.tamn)
 
 ---
 
