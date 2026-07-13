@@ -85,11 +85,15 @@ I focus on turning product ideas into stable mobile experiences with clean archi
 
 ---
 
-### GitHub Stats
+### GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ao307&show_icons=true&theme=tokyonight&hide_border=true" alt="Ali Ashraf GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=ao307&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <a href="https://github.com/ao307?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Open_Source-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Projects" />
+  </a>
+  <a href="https://github.com/ao307?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/ao307?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
+  </a>
 </p>
 
 <p align="center">
